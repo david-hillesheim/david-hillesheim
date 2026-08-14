@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7DD3FC&height=100&section=header&reversal=false&animation=twinkling" />
 </div>
 
 ###
@@ -82,5 +82,5 @@
 </div>
 
 <div data-importer="border">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:7DD3FC&height=100&section=footer&reversal=false&animation=twinkling" />
 </div>
