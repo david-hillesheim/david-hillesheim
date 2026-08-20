@@ -42,15 +42,6 @@
 
 <br></br>
 
-<h3 align="left">🔥  My Stats :</h3>
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/david-hillesheim/david-hillesheim/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/david-hillesheim/david-hillesheim/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-<br></br>
-
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/david-hillesheim-3b6b8a320/" target="_blank" style="text-decoration:none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=davidhillesheim6@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" /></a>
